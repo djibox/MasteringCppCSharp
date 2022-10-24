@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\P R E C I S I O N\source\repos\eRegister\eRegister\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\P R E C I S I O N\source\repos\eRegister\eRegister\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\P R E C I S I O N\source\repos\eRegister\eRegister\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
